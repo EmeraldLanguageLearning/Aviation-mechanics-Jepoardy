@@ -18,3 +18,7 @@ Aircraft photos from Wikimedia Commons, resized; full credits are in the game un
 - Diamond DA40: Paolins 92, CC BY 2.0, https://commons.wikimedia.org/wiki/File:Turin_Flying_School_Diamond_DA40_Star.jpg
 - Diamond DA42 Twin Star: Alan Wilson, https://commons.wikimedia.org/wiki/File:Diamond_DA42_Twin_Star_%E2%80%98F-GZJX%E2%80%99_(33604272473).jpg
 - Socata TB20 Trinidad: Alan Wilson, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:SOCATA_TB20_Trinidad_%E2%80%98HB-KAB%E2%80%99_(45196216625).jpg
+
+## Licence
+
+© 2026 Emerald Language Learning. Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see [LICENSE](LICENSE)): you may copy, fork and adapt it for individual, non-commercial use with credit, but **commercial use is not allowed** without written permission. Third-party material (photos, icons, map or dictionary data) keeps its own licence.
